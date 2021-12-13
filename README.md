@@ -8,3 +8,7 @@ Then we need to save the new token to a mongodb and the time that this new listi
 Another service will check if it's time that a listing will go live and at that moment will check if the retweet count is bigger than 50 - 100 retweets (we need to clarify this better)
 If it is then by the time this goes live we send a BUY order from gateio API and when it hits 100% we sell. 
 
+
+
+**Board 
+https://github.com/alexandrosk/metabot/projects/1?add_cards_query=is%3Aopen
